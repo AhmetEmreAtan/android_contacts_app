@@ -18,15 +18,15 @@ Lifecycle components  | 2.2.0
 # Project Dısplay Image
 
 <p>
-  This page is Main page
+  This page is an Main page
   <a href="https://github.com/AhmetEmreAtan/android_contacts_app/blob/main/images/1.PNG" target="_blank">
   <img src="https://github.com/AhmetEmreAtan/android_contacts_app/blob/main/images/1.PNG" width="200" style="max-width:100%;"></a> 
   
-  This page is Create Page
+  This page is an Create Page
   <a href="https://github.com/AhmetEmreAtan/android_contacts_app/blob/main/images/2.PNG" target="_blank">
   <img src="https://github.com/AhmetEmreAtan/android_contacts_app/blob/main/images/2.PNG" width="200" style="max-width:100%;"></a>
   
-  This page is DrawerLayout
+  This page is an DrawerLayout
   <a href="https://github.com/AhmetEmreAtan/android_contacts_app/blob/main/images/3.PNG" target="_blank">
   <img src="https://github.com/AhmetEmreAtan/android_contacts_app/blob/main/images/3.PNG" width="200" style="max-width:100%;"></a>
 </p>
